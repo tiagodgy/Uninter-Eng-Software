@@ -1,0 +1,10 @@
+.cores{
+    list-style: upper-roman;
+    width: fit-content;
+}
+.cores li:nth-child(even){
+    background-color: brown;
+}
+.cores li:nth-child(odd){
+    background-color:aqua;
+}

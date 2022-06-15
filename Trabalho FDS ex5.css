@@ -1,0 +1,24 @@
+/*Adicionando as caracterísitcas visuais de todas as tags p */
+p{
+    /*Escolhendo uma fonte para os parágrafos*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /*Escolhendo uma cor para o texto */
+    color: rgb(57, 255, 22);
+    /*Escolhendo o tamanho da fonte */
+    font-size: small;
+}
+/*Adicionando as caracterísitca visuais de todas as tags h2 */
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: xx-large;
+}
+/*Adicionando as caracterísitcas visuais da classe vermelho */
+.vermelho{
+    color: red;
+    font-size:large;
+}
+/*Adicionando as caracterísitcas visuais da classe azul */
+.azul{
+    color: blue;
+    font-size: large;
+}

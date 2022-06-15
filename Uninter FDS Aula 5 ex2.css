@@ -1,0 +1,11 @@
+img{
+    position: relative;
+    left: 40%;
+    width: 30%;
+}
+img:hover{
+    opacity: 0.5;
+}
+img:active{
+    background-color: aqua;
+}
